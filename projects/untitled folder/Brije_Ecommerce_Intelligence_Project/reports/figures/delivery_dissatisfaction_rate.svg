@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="500.0" y="42" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#111827" text-anchor="middle" font-weight="700">Dissatisfaction Rate by Delivery Status</text>
+<text x="24" y="302.5" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="600">Dissatisfied Orders (%)</text><animateTransform attributeName="transform" type="rotate" from="-90 24 302.5" to="-90 24 302.5" dur="0.01s" fill="freeze"/>
+<line x1="95" y1="515.0" x2="950" y2="515.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="519.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">0.0%</text>
+<line x1="95" y1="430.0" x2="950" y2="430.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="434.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">12.7%</text>
+<line x1="95" y1="345.0" x2="950" y2="345.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="349.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">25.4%</text>
+<line x1="95" y1="260.0" x2="950" y2="260.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="264.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">38.1%</text>
+<line x1="95" y1="175.0" x2="950" y2="175.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="179.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">50.8%</text>
+<line x1="95" y1="90.0" x2="950" y2="90.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">63.5%</text>
+<rect x="95.0" y="439.3" width="413.5" height="75.7" rx="3" fill="#d1495b"/>
+<text x="301.75" y="431.29137569898" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111827" text-anchor="middle" font-weight="700">11.3%</text>
+<text x="301.75" y="545" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="middle" font-weight="600">On Time / Early</text>
+<rect x="536.5" y="160.8" width="413.5" height="354.2" rx="3" fill="#d1495b"/>
+<text x="743.25" y="152.83333333333337" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111827" text-anchor="middle" font-weight="700">52.9%</text>
+<text x="743.25" y="545" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="middle" font-weight="600">Late</text>
+</svg>

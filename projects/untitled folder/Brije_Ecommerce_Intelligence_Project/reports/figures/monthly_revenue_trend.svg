@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="600.0" y="42" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#111827" text-anchor="middle" font-weight="700">Monthly Revenue Trend</text>
+<text x="25" y="305.0" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="600">Revenue</text><animateTransform attributeName="transform" type="rotate" from="-90 25 305.0" to="-90 25 305.0" dur="0.01s" fill="freeze"/>
+<line x1="95" y1="520.0" x2="1150" y2="520.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="524.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">0</text>
+<line x1="95" y1="434.0" x2="1150" y2="434.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="438.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">271K</text>
+<line x1="95" y1="348.0" x2="1150" y2="348.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="352.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">542K</text>
+<line x1="95" y1="262.0" x2="1150" y2="262.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="266.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">814K</text>
+<line x1="95" y1="176.0" x2="1150" y2="176.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="180.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">1.1M</text>
+<line x1="95" y1="90.0" x2="1150" y2="90.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="end" font-weight="400">1.4M</text>
+<polyline points="95.0,519.9 139.0,502.0 182.9,520.0 226.9,476.5 270.8,429.2 314.8,383.0 358.8,389.2 402.7,334.1 446.7,360.5 490.6,334.5 534.6,308.1 578.5,291.6 622.5,276.0 666.5,146.1 710.4,246.2 754.4,168.9 798.3,207.0 842.3,153.7 886.2,152.3 930.2,155.4 974.2,195.7 1018.1,184.3 1062.1,201.8 1106.0,519.9 1150.0,520.0" fill="none" stroke="#2563eb" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="95.0" cy="519.9" r="4" fill="#2563eb"/>
+<circle cx="139.0" cy="502.0" r="4" fill="#2563eb"/>
+<circle cx="182.9" cy="520.0" r="4" fill="#2563eb"/>
+<circle cx="226.9" cy="476.5" r="4" fill="#2563eb"/>
+<circle cx="270.8" cy="429.2" r="4" fill="#2563eb"/>
+<circle cx="314.8" cy="383.0" r="4" fill="#2563eb"/>
+<circle cx="358.8" cy="389.2" r="4" fill="#2563eb"/>
+<circle cx="402.7" cy="334.1" r="4" fill="#2563eb"/>
+<circle cx="446.7" cy="360.5" r="4" fill="#2563eb"/>
+<circle cx="490.6" cy="334.5" r="4" fill="#2563eb"/>
+<circle cx="534.6" cy="308.1" r="4" fill="#2563eb"/>
+<circle cx="578.5" cy="291.6" r="4" fill="#2563eb"/>
+<circle cx="622.5" cy="276.0" r="4" fill="#2563eb"/>
+<circle cx="666.5" cy="146.1" r="4" fill="#2563eb"/>
+<circle cx="710.4" cy="246.2" r="4" fill="#2563eb"/>
+<circle cx="754.4" cy="168.9" r="4" fill="#2563eb"/>
+<circle cx="798.3" cy="207.0" r="4" fill="#2563eb"/>
+<circle cx="842.3" cy="153.7" r="4" fill="#2563eb"/>
+<circle cx="886.2" cy="152.3" r="4" fill="#2563eb"/>
+<circle cx="930.2" cy="155.4" r="4" fill="#2563eb"/>
+<circle cx="974.2" cy="195.7" r="4" fill="#2563eb"/>
+<circle cx="1018.1" cy="184.3" r="4" fill="#2563eb"/>
+<circle cx="1062.1" cy="201.8" r="4" fill="#2563eb"/>
+<circle cx="1106.0" cy="519.9" r="4" fill="#2563eb"/>
+<circle cx="1150.0" cy="520.0" r="4" fill="#2563eb"/>
+<text x="95.0" y="550" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151" text-anchor="middle" font-weight="600">Sep 2016</text>
+<text x="226.875" y="550" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151" text-anchor="middle" font-weight="600">Jan 2017</text>
+<text x="358.75" y="550" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151" text-anchor="middle" font-weight="600">Apr 2017</text>
+<text x="490.625" y="550" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151" text-anchor="middle" font-weight="600">Jul 2017</text>
+<text x="622.5" y="550" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151" text-anchor="middle" font-weight="600">Oct 2017</text>
+<text x="754.375" y="550" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151" text-anchor="middle" font-weight="600">Jan 2018</text>
+<text x="886.25" y="550" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151" text-anchor="middle" font-weight="600">Apr 2018</text>
+<text x="1018.125" y="550" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151" text-anchor="middle" font-weight="600">Jul 2018</text>
+<text x="1150.0" y="550" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151" text-anchor="middle" font-weight="600">Oct 2018</text>
+<text x="666.4583333333334" y="130.08695652173907" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="700">Peak Nov 2017: 1.2M</text>
+</svg>

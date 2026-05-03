@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="680" viewBox="0 0 1100 680">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="550.0" y="42" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#111827" text-anchor="middle" font-weight="700">Top 10 Customer States</text>
+<text x="645.0" y="652" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="600">Unique Customers</text>
+<line x1="260.0" y1="90" x2="260.0" y2="585" stroke="#e5e7eb" stroke-width="1"/>
+<text x="260.0" y="610" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle" font-weight="400">0</text>
+<line x1="414.0" y1="90" x2="414.0" y2="585" stroke="#e5e7eb" stroke-width="1"/>
+<text x="414.0" y="610" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle" font-weight="400">9,510</text>
+<line x1="568.0" y1="90" x2="568.0" y2="585" stroke="#e5e7eb" stroke-width="1"/>
+<text x="568.0" y="610" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle" font-weight="400">19,019</text>
+<line x1="722.0" y1="90" x2="722.0" y2="585" stroke="#e5e7eb" stroke-width="1"/>
+<text x="722.0" y="610" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle" font-weight="400">28,529</text>
+<line x1="876.0" y1="90" x2="876.0" y2="585" stroke="#e5e7eb" stroke-width="1"/>
+<text x="876.0" y="610" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle" font-weight="400">38,038</text>
+<line x1="1030.0" y1="90" x2="1030.0" y2="585" stroke="#e5e7eb" stroke-width="1"/>
+<text x="1030.0" y="610" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle" font-weight="400">47,548</text>
+<text x="246" y="119.1654" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="end" font-weight="600">GO</text>
+<rect x="260" y="98.9" width="31.6" height="30.7" rx="3" fill="#4c78a8"/>
+<text x="299.594743007607" y="119.1654" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827" text-anchor="start" font-weight="700">1,951</text>
+<text x="246" y="168.6654" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="end" font-weight="600">ES</text>
+<rect x="260" y="148.4" width="31.8" height="30.7" rx="3" fill="#4c78a8"/>
+<text x="299.7890725391761" y="168.6654" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827" text-anchor="start" font-weight="700">1,963</text>
+<text x="246" y="218.1654" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="end" font-weight="600">DF</text>
+<rect x="260" y="197.9" width="33.6" height="30.7" rx="3" fill="#4c78a8"/>
+<text x="301.5704265785594" y="218.1654" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827" text-anchor="start" font-weight="700">2,073</text>
+<text x="246" y="267.6654" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="end" font-weight="600">BA</text>
+<rect x="260" y="247.4" width="53.1" height="30.7" rx="3" fill="#4c78a8"/>
+<text x="321.05196211836017" y="267.6654" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827" text-anchor="start" font-weight="700">3,276</text>
+<text x="246" y="317.16540000000003" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="end" font-weight="600">SC</text>
+<rect x="260" y="296.9" width="57.1" height="30.7" rx="3" fill="#4c78a8"/>
+<text x="325.1490764089417" y="317.16540000000003" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827" text-anchor="start" font-weight="700">3,529</text>
+<text x="246" y="366.66540000000003" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="end" font-weight="600">PR</text>
+<rect x="260" y="346.4" width="79.1" height="30.7" rx="3" fill="#4c78a8"/>
+<text x="347.059731093356" y="366.66540000000003" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827" text-anchor="start" font-weight="700">4,882</text>
+<text x="246" y="416.16540000000003" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="end" font-weight="600">RS</text>
+<rect x="260" y="395.9" width="85.5" height="30.7" rx="3" fill="#4c78a8"/>
+<text x="353.45641150750504" y="416.16540000000003" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827" text-anchor="start" font-weight="700">5,277</text>
+<text x="246" y="465.66540000000003" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="end" font-weight="600">MG</text>
+<rect x="260" y="445.4" width="182.3" height="30.7" rx="3" fill="#4c78a8"/>
+<text x="450.26490648417075" y="465.66540000000003" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827" text-anchor="start" font-weight="700">11,255</text>
+<text x="246" y="515.1654" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="end" font-weight="600">RJ</text>
+<rect x="260" y="494.9" width="200.4" height="30.7" rx="3" fill="#4c78a8"/>
+<text x="468.4347176858802" y="515.1654" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827" text-anchor="start" font-weight="700">12,377</text>
+<text x="246" y="564.6654" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151" text-anchor="end" font-weight="600">SP</text>
+<rect x="260" y="544.4" width="652.5" height="30.7" rx="3" fill="#4c78a8"/>
+<text x="920.542372881356" y="564.6654" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827" text-anchor="start" font-weight="700">40,295</text>
+</svg>
