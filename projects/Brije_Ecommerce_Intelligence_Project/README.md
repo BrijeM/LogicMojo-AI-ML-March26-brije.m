@@ -1,6 +1,6 @@
 # Brije Ecommerce Intelligence Project
 
-This project analyzes e-commerce marketplace data to understand customer behavior, revenue performance, product demand, seller contribution, payment preferences, delivery performance, and customer satisfaction.
+This project analyzes e-commerce marketplace data to understand customer behavior, revenue performance, product demand, seller contribution, payment preferences, delivery performance, and customer satisfaction. The final output is a business-focused intelligence report with charts, insights, and recommendations.
 
 ## Project Objective
 
@@ -24,12 +24,15 @@ Brije_Ecommerce_Intelligence_Project/
 │   └── sellers.csv
 ├── guidelines/
 │   └── project_guidelines_problem_statement.docx
-└── reports/
+├── reports/
+│   └── project_report.pdf
+└── scripts/
+    └── convert_docx_to_pdf.py
 ```
 
 ## Dataset Description
 
-The project uses the following datasets:
+The project uses the following relational e-commerce datasets:
 
 - `orders.csv`: order status and order timeline details
 - `order_item.csv`: item-level order details including product, seller, price, and freight value
@@ -57,19 +60,13 @@ The main analysis is completed in `ecommerce_project.ipynb` and covers:
 - Review and satisfaction analysis
 - Business insights and recommendations
 
-## Required Final Deliverables
+## Final Deliverables
 
-The final submission should include:
+The final project deliverables are:
 
-- Project report in PDF or DOC/DOCX format
-- Project title
-- Business problem statement
-- Dataset description
-- Methodology
-- Key findings
-- Business insights
-- Recommendations
-- Visual outputs with all key charts and graphs
+- `reports/project_report.pdf`: final report with the problem statement, dataset description, methodology, findings, insights, recommendations, and visual outputs.
+- `ecommerce_project.ipynb`: complete analysis notebook used to prepare the report.
+- `scripts/convert_docx_to_pdf.py`: helper script for converting a Word report to PDF when a DOCX version is available.
 
 ## Headline Results
 
@@ -79,6 +76,27 @@ The final submission should include:
 - Average order value: **159.33**
 - Repeat customer share: **3.1%**
 - Average review score: **4.09**
+
+## Visual Outputs
+
+The report includes visual analysis for:
+
+- New vs repeat customers
+- Customer value segments
+- Geographic distribution of customers
+- Monthly revenue trends
+- Monthly order volume trends
+- Peak sales periods
+- Top-selling product categories
+- Revenue contribution by category
+- Product demand distribution
+- Top-performing sellers
+- Seller revenue contribution
+- Seller distribution by state
+- Review score distribution
+- Delivery time and review ratings
+- Dissatisfaction patterns
+- Correlation heatmap for order-level metrics
 
 ## Key Business Insights
 
@@ -102,3 +120,18 @@ The final submission should include:
 1. Open `ecommerce_project.ipynb`.
 2. Run the notebook cells from top to bottom.
 3. Review the generated analysis, charts, insights, and recommendations.
+4. Open `reports/project_report.pdf` for the final submitted report.
+
+## PDF Conversion
+
+If a DOCX report is available and needs to be converted again, run:
+
+```bash
+python3 scripts/convert_docx_to_pdf.py reports/project_report.docx reports/project_report.pdf
+```
+
+The script first attempts high-fidelity conversion with LibreOffice or Pages automation. A basic Python fallback can be used only when an approximate PDF is acceptable:
+
+```bash
+python3 scripts/convert_docx_to_pdf.py reports/project_report.docx reports/project_report.pdf --fallback
+```
